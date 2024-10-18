@@ -81,8 +81,9 @@ HLT
 ```
 
 
-## Output  
-![Screenshot 2024-08-24 134744](https://github.com/user-attachments/assets/bf20cf59-684d-4fc1-a1a7-917e3e6dcacd)
+## Output 
+![ss](https://github.com/user-attachments/assets/4a4ce084-a409-43a1-8ccf-a7ae6a71e5ba)
+
 
 
 ## Subtraction   of 8 bit numbers  ALP 
